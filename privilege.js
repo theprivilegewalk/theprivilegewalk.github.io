@@ -98,7 +98,6 @@ function calculateScore(){
     var score = 0;
     for(var i=0; i < questions.length; i++){
         if($("#qn-checkbox-"+i).prop('checked')){
-            console.log(i);
            score += scores[i].yes;
         }else{
            score += scores[i].no;
