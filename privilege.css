@@ -15,3 +15,21 @@ p.foreword::first-letter {
     font-size: 200%;
     color: #2980b9;
 }
+
+.bootstrap-switch{
+    height:30px;
+}
+
+.qsec{
+    padding:15px 0px;
+}
+
+div.content-area{
+    margin:auto;
+    margin-left:25px;
+    width:100%;
+}
+
+div#content{
+    margin-bottom:25px;
+}
