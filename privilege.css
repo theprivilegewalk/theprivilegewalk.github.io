@@ -1,0 +1,17 @@
+html,body{
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+div.container{
+    margin-top:50px;
+}
+
+p.foreword::first-letter { 
+    font-size: 200%;
+    color: #2980b9;
+}
