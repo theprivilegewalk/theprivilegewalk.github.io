@@ -78,7 +78,7 @@ function createQuestion(container){
     for(var i=0; i < questions.length; i++){
         sno = i+1;
         sectionlabel = '<div class="row qsec">';
-        questionlabel = '<div class="col-md-5"><div class="question-label">' + sno + ". " + questions[i] + ' ( '+scores[i].yes+' / '+scores[i].no+' )</div></div>';
+        questionlabel = '<div class="col-md-5"><div class="question-label">' + sno + ". " + questions[i] + '</div></div>';
         answerlabel = '<div class="col-md-3"><input type="checkbox" id="qn-checkbox-'+i+'" name="qn-checkbox-'+i+'" class="answer-switch" checked /></div>';
         sectionlabel += questionlabel + answerlabel;
         sectionlabel += '</div>';

@@ -33,3 +33,7 @@ div.content-area{
 div#content{
     margin-bottom:25px;
 }
+
+.question-label{
+    font-size:12pt;
+}
