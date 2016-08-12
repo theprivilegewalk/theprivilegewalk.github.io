@@ -26,7 +26,7 @@ var questions = ['Have you ever work part-time from 13 - 21 years old?',        
                  'Have you been the victim of physical violence based on your gender, ethnicity, age or sexual orientation?',
                  'Have you been the victim of family violence, abuse?',                                            //26
                  'Have you ever been a discharged bankrupt due to family circumstances?',
-                 'Do your/your family own one ore more vehicle(car, vans, motorcycles) for personal use?',
+                 'Do you/your family own one or more vehicle(car, vans, motorcycles) for personal use?',
                  'Have you/your family ever need to worry about the next meal?',
                  'Is English your first language?',
                  'Are you comfortable in speaking your native language in your community?',                       //31
